@@ -19,7 +19,7 @@
 
 -	The treatment plans and tasks are delivered to the patients either through Neuroflow's website or through the app.
 
--	There are some patients who have taken the assessment multiples times a day which I think the patients couldn't give the assessment properly in their first or multiple attempts until they are satisfied.
+-	There are some patients who have taken the assessment multiple times a day which I think the patients couldn't give the assessment properly in their first or multiple attempts until they are satisfied.
 
 ## 2. What assumptions have you made about the data?
 
@@ -29,9 +29,9 @@
 
 ## 3. What are 2-3 additional pieces of information that would be important to collect?
 
--	The specifics of the overall score is important to know the person's specific suffering. For example, "Worry", "nervous".
+-	The specifics of the overall score is important to know the person's specific suffering. For example, "Worry", "Nervous".
 -	Additional questions on avoidance behaviour to understand the impact of the problem. For instance, if they are missing   work, avoiding chores at home.
--	Age, profession, marital status to aid in analysing the root cause of the problem.
+-	Age, Profession, Marital status to aid in analysing the root cause of the problem.
 -	If they had been diagnosed with GAD or not
 
 
