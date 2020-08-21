@@ -1,7 +1,7 @@
 1. Given the information you have and any light research you’d like to do on the topic, what
      insights can you draw?
 
-    - GAD(General Anxiety Disorder)-7 assessment is a part of Measurement based care(MBC), a procedure that emphasizes the use of standardized assessments, and other tests to help personalize care and guide treatment decisions.
+    - GAD(General Anxiety Disorder)-7 assessment is a part of Measurement based care(MBC), a procedure that emphasizes the use of standardized assessments, and other       tests to help personalize care and guide treatment decisions.
     - It is taken prior to session, at the close of session or at home prior to session. 	
     - Neuroflow helps the patients to take the self administered assessment remotely and caregivers can monitor the patient's progress and adjust treatment plans.
     - The treatment plans and tasks are delivered to the patients either through Neuroflow's website or through the app.
