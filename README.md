@@ -1,4 +1,3 @@
-# NeuroFlow Take-Home Project
 
 ## File Descriptions
 
